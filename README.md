@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ariyo Joey
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning full stack development  
+- 🌱 I’m currently learning DevOps 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ariyojoey@gmail.com
 
